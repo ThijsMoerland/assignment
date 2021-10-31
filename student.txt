@@ -1,0 +1,7 @@
+Name: Thijs Moerland
+Student number:680942
+class: AO1B
+Github:https://github.com/ThijsMoerland/assignment
+
+ik heb deze repository overnieuw moeten maken omdat ik niet wist dat het student.txt als eerste moet daarom is alles ook op 1 dag gepushed.
+volgende de keer misschien handig om dat aan het begin te zetten van het assignment...
